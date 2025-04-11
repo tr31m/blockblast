@@ -1,0 +1,9 @@
+{
+  "name": "block-blast",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'no build needed'",
+    "start": "vercel start"
+  }
+}
